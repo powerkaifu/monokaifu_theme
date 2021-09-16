@@ -1,0 +1,25 @@
+{
+  "name": "monokaifu-theme",
+  "displayName": "Monokaifu Theme",
+  "description": "Monokaifu Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "monokai",
+    "dark theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokaifu Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokaifu Theme-color-theme.json"
+      }
+    ]
+  }
+}
