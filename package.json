@@ -9,6 +9,11 @@
   "categories": [
     "Themes"
   ],
+  "publisher": "powerkaifu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/powerkaifu/monokaifu_theme.git"
+  },
   "keywords": [
     "monokai",
     "dark theme"
