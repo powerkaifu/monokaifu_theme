@@ -10,6 +10,7 @@
     "Themes"
   ],
   "publisher": "powerkaifu",
+  "icon": "icon.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/powerkaifu/monokaifu_theme.git"
