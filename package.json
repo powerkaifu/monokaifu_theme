@@ -1,31 +1,31 @@
 {
-  "name": "monokaifu-theme",
-  "displayName": "Monokaifu Theme",
-  "description": "Monokaifu Theme",
-  "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.60.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "publisher": "powerkaifu",
-  "icon": "icon.jpg",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/powerkaifu/monokaifu_theme.git"
-  },
-  "keywords": [
-    "monokai",
-    "dark theme"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Monokaifu Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Monokaifu Theme-color-theme.json"
-      }
-    ]
-  }
+	"name": "monokaifu-theme",
+	"displayName": "Monokaifu Theme",
+	"description": "Monokaifu Theme",
+	"version": "1.0.2",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"publisher": "powerkaifu",
+	"icon": "icon.jpg",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/powerkaifu/monokaifu_theme.git"
+	},
+	"keywords": [
+		"monokai",
+		"dark theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokaifu Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokaifu Theme-color-theme.json"
+			}
+		]
+	}
 }
