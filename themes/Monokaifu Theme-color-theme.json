@@ -297,9 +297,9 @@
 				"comment punctuation",
 				"comment text"
 			],
-			"settings": { "name": "Comments and overrides inside comments", "fontStyle": "italic", "foreground": "#69676c" }
+			"settings": { "name": "Comments and overrides inside comments", "fontStyle": "italic", "foreground": "#6a9955" }
 		},
-		{ "scope": "comment storage.type", "settings": { "name": "JSDoc storage type", "foreground": "#69676c" } },
+		{ "scope": "comment storage.type", "settings": { "name": "JSDoc storage type", "foreground": "#6a9955" } },
 		{ "scope": "comment entity.name.type", "settings": { "name": "JSDoc entity name", "foreground": "#bab6c0" } },
 		{
 			"scope": ["comment variable", "comment variable.other"],
