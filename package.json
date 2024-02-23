@@ -2,7 +2,7 @@
 	"name": "monokaifu-theme",
 	"displayName": "Monokaifu Theme",
 	"description": "Monokaifu Theme",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
